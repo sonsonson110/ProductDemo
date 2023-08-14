@@ -2,6 +2,7 @@
 
 **Để trải nghiệm demo app, hãy tải file apk từ thư mục andoid/app/release/app-release.apk (hiện chỉ hỗ trợ android)**
 
+**Demo chỉ khả dụng cho đến 28/9, sau đó tài khoản Google Cloud Platform hết hạn và firebase project sẽ bị dỡ.**
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
