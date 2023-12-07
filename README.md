@@ -1,3 +1,5 @@
+Slide giới thiệu ứng dụng: https://www.canva.com/design/DAFrWPNYTgg/EWLy-iFqTwuQbShuD5DAag/view?utm_content=DAFrWPNYTgg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
 >**Note**: Để đảm bảo tính bảo mật, các thông tin về cấu hình trong tệp './firebase/configuration.js' sẽ bị bỏ và tệp './android/app/google-services.json' sẽ bị xoá. Do đó repo này chỉ đại diện cho cấu trúc của project.
 
 **Để trải nghiệm demo app, hãy tải file apk từ thư mục andoid/app/release/app-release.apk (hiện chỉ hỗ trợ android)**
